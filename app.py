@@ -22,6 +22,7 @@ st.header("BLOGZILLA  🧾🧾")
 st.subheader("Enter your topic below and the AI will generate a BLOG for you !!")
 
 with st.sidebar:
+    st.header("BLOGZILLA")
     st.write('With an intuitive user interface and a user-friendly design, this web application invites users to embark on a creative odyssey. By simply providing a few details about the user"s interests the application harnesses the transformative power of Gemini Pro to generate a quality Blog with  emotional depth.')
 
 aoi = [
